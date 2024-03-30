@@ -1,2 +1,2 @@
-# re_marc_abel
-Project for BMCC Compass
+# BMCC Compass
+**Project Contributors:** *Mark Crawford,* *Abel Tshimini*
